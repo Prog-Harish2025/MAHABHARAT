@@ -1,0 +1,121 @@
+
+
+
+body{
+    background:url(first.jpg);
+    background-size:100% 18%;
+    background-repeat:no-repeat;
+}
+
+.font{
+    font-size:50px;
+    font-family:Algerian;
+
+}
+
+h1, h2, h6, h5{
+    font-family:Algerian;
+    color:darkgoldenrod !important;
+}
+
+.image{
+    background:url(shrikrishna.png);
+    background-size:100% 100%;
+    background-repeat:no-repeat;
+    height:500px;
+    opacity:0.8;
+}
+
+.wallpaper{
+    background:url(krishna.jpg);
+    background-size:100% 100%;
+    background-repeat:no-repeat;
+    height:450px;
+}
+
+a{
+  font-family:Algerian;
+  text-decoration:none;
+}
+
+.anchor{
+    font-family:Algerian;
+    font-size:38px;
+}
+
+.gyan{
+    width:32%;
+    height:500px;
+}
+
+.banner{
+    background:url(kurukshetra.png);
+    background-size:100% 100%;
+    background-repeat:no-repeat;
+}
+
+.banner2{
+    background:url(yudh.jpg);
+    background-size:100% 100%;
+    background-repeat:no-repeat;
+    height:350px;
+    opacity:0.8;
+}
+
+.gatha{
+    font-size:17px;
+    text-align:left;
+}
+
+.footer{
+    font-size:35px;
+    font-family:Algerian;
+}
+
+.success{
+    color:green;
+}
+
+.colour{
+    color:green;
+}
+
+p{
+  font-family:Algerian;
+}
+
+.list{
+    font-size:18px;
+}
+
+.banner3{
+    background:green;
+}
+
+.circle1{
+    background:url(bhim.png);
+}
+
+.circle2{
+    background:url(wars.png);
+}
+
+.circle3{
+    background:url(war.png);
+}
+
+.circle4{
+    background:url(warrior.jpg);
+}
+
+.r1{
+    background-size:100% 100%;
+    background-repeat:no-repeat;
+    border-radius:50%;
+    height:300px;
+}
+
+.mandir{
+    width:100px;
+    border-radius:50%;
+}
